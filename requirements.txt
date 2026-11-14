@@ -1,0 +1,15 @@
+# Python >= 3.10, CUDA GPU with >= 40 GB of memory.
+# jlens itself is installed from this repository: pip install -e ./jacobian-lens
+torch>=2.4
+transformers
+huggingface_hub
+safetensors
+accelerate
+datasets
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+jupyter
+ipykernel

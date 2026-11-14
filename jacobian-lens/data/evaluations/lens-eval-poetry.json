@@ -1,0 +1,690 @@
+{
+  "items": [
+    {
+      "name": "couplet-breath-death",
+      "prompt": "A rhyming couplet:\nThe soldier held his final, rattling breath,\n",
+      "intermediates": [
+        "death"
+      ]
+    },
+    {
+      "name": "couplet-stone-bone",
+      "prompt": "A rhyming couplet:\nThe ancient tomb was sealed with heavy stone,\n",
+      "intermediates": [
+        "bone"
+      ]
+    },
+    {
+      "name": "couplet-divine-wine",
+      "prompt": "A rhyming couplet:\nThe chapel glowed with light almost divine,\n",
+      "intermediates": [
+        "wine"
+      ]
+    },
+    {
+      "name": "couplet-flame-name",
+      "prompt": "A rhyming couplet:\nShe lit the letter, watched it curl to flame,\n",
+      "intermediates": [
+        "name"
+      ]
+    },
+    {
+      "name": "couplet-sleep-deep",
+      "prompt": "A rhyming couplet:\nShe drifted off into a dreamless sleep,\n",
+      "intermediates": [
+        "deep"
+      ]
+    },
+    {
+      "name": "couplet-gold-cold",
+      "prompt": "A rhyming couplet:\nThe autumn trees were painted red and gold,\n",
+      "intermediates": [
+        "cold"
+      ]
+    },
+    {
+      "name": "couplet-flight-night",
+      "prompt": "A rhyming couplet:\nThe owl spread wide its wings and took to flight,\n",
+      "intermediates": [
+        "night"
+      ]
+    },
+    {
+      "name": "couplet-wave-grave",
+      "prompt": "A rhyming couplet:\nThe sailor watched his ship sink through the wave,\n",
+      "intermediates": [
+        "grave"
+      ]
+    },
+    {
+      "name": "couplet-true-through",
+      "prompt": "A rhyming couplet:\nThe arrow flew so straight, its aim was true,\n",
+      "intermediates": [
+        "through"
+      ]
+    },
+    {
+      "name": "couplet-throne-alone",
+      "prompt": "A rhyming couplet:\nThe king grew weary on his gilded throne,\n",
+      "intermediates": [
+        "alone"
+      ]
+    },
+    {
+      "name": "couplet-divine-wine-to-sign",
+      "prompt": "A rhyming couplet:\nThe chapel glowed with light almost divine,\n",
+      "intermediates": [
+        "wine"
+      ]
+    },
+    {
+      "name": "couplet-dust-trust",
+      "prompt": "A rhyming couplet:\nThe vow he made had long since turned to dust,\n",
+      "intermediates": [
+        "trust"
+      ]
+    },
+    {
+      "name": "couplet-ground-sound",
+      "prompt": "A rhyming couplet:\nThe tree fell hard and shook the frozen ground,\n",
+      "intermediates": [
+        "sound"
+      ]
+    },
+    {
+      "name": "couplet-bed-dead",
+      "prompt": "A rhyming couplet:\nShe found him cold and still upon the bed,\n",
+      "intermediates": [
+        "dead"
+      ]
+    },
+    {
+      "name": "couplet-fight-light",
+      "prompt": "A rhyming couplet:\nHe swung his fists and wouldn't quit the fight,\n",
+      "intermediates": [
+        "light"
+      ]
+    },
+    {
+      "name": "couplet-sea-free",
+      "prompt": "A rhyming couplet:\nThe dolphin leapt and shimmered in the sea,\n",
+      "intermediates": [
+        "free"
+      ]
+    },
+    {
+      "name": "couplet-moon-soon",
+      "prompt": "A rhyming couplet:\nThe clouds drew back and gave us up the moon,\n",
+      "intermediates": [
+        "soon"
+      ]
+    },
+    {
+      "name": "couplet-art-heart",
+      "prompt": "A rhyming couplet:\nShe poured her every sorrow into art,\n",
+      "intermediates": [
+        "heart"
+      ]
+    },
+    {
+      "name": "couplet-rain-pain",
+      "prompt": "A rhyming couplet:\nShe pressed her palm against the window's rain,\n",
+      "intermediates": [
+        "pain"
+      ]
+    },
+    {
+      "name": "couplet-snow-grow",
+      "prompt": "A rhyming couplet:\nBeneath the drift of winter's heavy snow,\n",
+      "intermediates": [
+        "grow"
+      ]
+    },
+    {
+      "name": "couplet-shore-more",
+      "prompt": "A rhyming couplet:\nShe gathered shells along the empty shore,\n",
+      "intermediates": [
+        "more"
+      ]
+    },
+    {
+      "name": "couplet-heart-apart",
+      "prompt": "A rhyming couplet:\nShe held the photo tight against her heart,\n",
+      "intermediates": [
+        "apart"
+      ]
+    },
+    {
+      "name": "couplet-miss-kiss",
+      "prompt": "A rhyming couplet:\nHe counted days by everything he'd miss,\n",
+      "intermediates": [
+        "kiss"
+      ]
+    },
+    {
+      "name": "couplet-eyes-lies",
+      "prompt": "A rhyming couplet:\nShe searched his face but couldn't read his eyes,\n",
+      "intermediates": [
+        "lies"
+      ]
+    },
+    {
+      "name": "couplet-hold-old",
+      "prompt": "A rhyming couplet:\nHe reached for her but found no hand to hold,\n",
+      "intermediates": [
+        "old"
+      ]
+    },
+    {
+      "name": "couplet-fall-wall",
+      "prompt": "A rhyming couplet:\nHe lost his grip and started down the fall,\n",
+      "intermediates": [
+        "wall"
+      ]
+    },
+    {
+      "name": "couplet-chase-face",
+      "prompt": "A rhyming couplet:\nThrough alleys dark she led him on the chase,\n",
+      "intermediates": [
+        "face"
+      ]
+    },
+    {
+      "name": "couplet-trap-map",
+      "prompt": "A rhyming couplet:\nHe should have known the treasure was a trap,\n",
+      "intermediates": [
+        "map"
+      ]
+    },
+    {
+      "name": "couplet-gate-fate",
+      "prompt": "A rhyming couplet:\nThe traveler paused before the ancient gate,\n",
+      "intermediates": [
+        "fate"
+      ]
+    },
+    {
+      "name": "couplet-gun-run",
+      "prompt": "A rhyming couplet:\nThe outlaw drew and cocked his loaded gun,\n",
+      "intermediates": [
+        "run"
+      ]
+    },
+    {
+      "name": "couplet-told-gold",
+      "prompt": "A rhyming couplet:\nOf all the stories ever to be told,\n",
+      "intermediates": [
+        "gold"
+      ]
+    },
+    {
+      "name": "couplet-mind-find",
+      "prompt": "A rhyming couplet:\nShe searched the corridors of her own mind,\n",
+      "intermediates": [
+        "find"
+      ]
+    },
+    {
+      "name": "couplet-dream-seem",
+      "prompt": "A rhyming couplet:\nShe woke and couldn't separate the dream,\n",
+      "intermediates": [
+        "seem"
+      ]
+    },
+    {
+      "name": "couplet-time-climb",
+      "prompt": "A rhyming couplet:\nHe watched the shadows mark the crawl of time,\n",
+      "intermediates": [
+        "climb"
+      ]
+    },
+    {
+      "name": "couplet-known-grown",
+      "prompt": "A rhyming couplet:\nThe child she'd rocked had vanished to the known,\n",
+      "intermediates": [
+        "grown"
+      ]
+    },
+    {
+      "name": "couplet-war-door",
+      "prompt": "A rhyming couplet:\nHe'd given both his sons now to the war,\n",
+      "intermediates": [
+        "door"
+      ]
+    },
+    {
+      "name": "couplet-smoke-spoke",
+      "prompt": "A rhyming couplet:\nThe ruins smoldered, veiled in bitter smoke,\n",
+      "intermediates": [
+        "spoke"
+      ]
+    },
+    {
+      "name": "couplet-head-bed",
+      "prompt": "A rhyming couplet:\nThe fever burned and pounded in his head,\n",
+      "intermediates": [
+        "bed"
+      ]
+    },
+    {
+      "name": "couplet-deep-keep",
+      "prompt": "A rhyming couplet:\nThe miners dug three hundred meters deep,\n",
+      "intermediates": [
+        "keep"
+      ]
+    },
+    {
+      "name": "couplet-cat-mat",
+      "prompt": "A rhyming couplet:\nShe tripped across the sleeping family cat,\n",
+      "intermediates": [
+        "mat"
+      ]
+    },
+    {
+      "name": "couplet-cake-mistake",
+      "prompt": "A rhyming couplet:\nShe eyed the last surviving slice of cake,\n",
+      "intermediates": [
+        "mistake"
+      ]
+    },
+    {
+      "name": "couplet-shoe-blue",
+      "prompt": "A rhyming couplet:\nShe searched the closet for the missing shoe,\n",
+      "intermediates": [
+        "blue"
+      ]
+    },
+    {
+      "name": "couplet-foam-home",
+      "prompt": "A rhyming couplet:\nShe watched the tide reclaim the crumbling foam,\n",
+      "intermediates": [
+        "home"
+      ]
+    },
+    {
+      "name": "couplet-song-long",
+      "prompt": "A rhyming couplet:\nThe final note faded from the song,\n",
+      "intermediates": [
+        "long"
+      ]
+    },
+    {
+      "name": "couplet-near-fear",
+      "prompt": "A rhyming couplet:\nHe heard the footsteps drawing ever near,\n",
+      "intermediates": [
+        "fear"
+      ]
+    },
+    {
+      "name": "couplet-clear-year",
+      "prompt": "A rhyming couplet:\nThe lake at dawn was glassy, still, and clear,\n",
+      "intermediates": [
+        "year"
+      ]
+    },
+    {
+      "name": "couplet-sky-fly",
+      "prompt": "A rhyming couplet:\nThe kite broke free and vanished in the sky,\n",
+      "intermediates": [
+        "fly"
+      ]
+    },
+    {
+      "name": "couplet-high-cry",
+      "prompt": "A rhyming couplet:\nShe found the ledge and let her voice ring high,\n",
+      "intermediates": [
+        "cry"
+      ]
+    },
+    {
+      "name": "couplet-star-far",
+      "prompt": "A rhyming couplet:\nHe traced the tail of one collapsing star,\n",
+      "intermediates": [
+        "far"
+      ]
+    },
+    {
+      "name": "couplet-bend-end",
+      "prompt": "A rhyming couplet:\nThe river curved and vanished round the bend,\n",
+      "intermediates": [
+        "end"
+      ]
+    },
+    {
+      "name": "couplet-bright-sight",
+      "prompt": "A rhyming couplet:\nThe flare went up, a burst of phosphor bright,\n",
+      "intermediates": [
+        "sight"
+      ]
+    },
+    {
+      "name": "couplet-white-write",
+      "prompt": "A rhyming couplet:\nThe page before her lay unmarked and white,\n",
+      "intermediates": [
+        "write"
+      ]
+    },
+    {
+      "name": "couplet-gray-day",
+      "prompt": "A rhyming couplet:\nThe dawn broke through the clouds of silver gray,\n",
+      "intermediates": [
+        "day"
+      ]
+    },
+    {
+      "name": "couplet-field-play",
+      "prompt": "A rhyming couplet:\nThe children raced across the grassy field,\n",
+      "intermediates": [
+        "play"
+      ]
+    },
+    {
+      "name": "couplet-away-way",
+      "prompt": "A rhyming couplet:\nThe traveler had wandered far away,\n",
+      "intermediates": [
+        "way"
+      ]
+    },
+    {
+      "name": "couplet-stars-space",
+      "prompt": "A rhyming couplet:\nThe astronaut looked up and counted stars,\n",
+      "intermediates": [
+        "space"
+      ]
+    },
+    {
+      "name": "couplet-chase-place",
+      "prompt": "A rhyming couplet:\nThe hounds set out upon the morning chase,\n",
+      "intermediates": [
+        "place"
+      ]
+    },
+    {
+      "name": "couplet-pace-race",
+      "prompt": "A rhyming couplet:\nThe runner pushed to set a faster pace,\n",
+      "intermediates": [
+        "race"
+      ]
+    },
+    {
+      "name": "couplet-base-case",
+      "prompt": "A rhyming couplet:\nThe lawyer built her argument from base,\n",
+      "intermediates": [
+        "case"
+      ]
+    },
+    {
+      "name": "couplet-blame-game",
+      "prompt": "A rhyming couplet:\nThey pointed fingers, passing round the blame,\n",
+      "intermediates": [
+        "game"
+      ]
+    },
+    {
+      "name": "couplet-frame-same",
+      "prompt": "A rhyming couplet:\nHe hung a second picture in a frame,\n",
+      "intermediates": [
+        "same"
+      ]
+    },
+    {
+      "name": "couplet-fear-near",
+      "prompt": "A rhyming couplet:\nShe heard the footsteps and was gripped by fear,\n",
+      "intermediates": [
+        "near"
+      ]
+    },
+    {
+      "name": "couplet-scar-star",
+      "prompt": "A rhyming couplet:\nThe telescope revealed a distant scar,\n",
+      "intermediates": [
+        "star"
+      ]
+    },
+    {
+      "name": "couplet-jar-car",
+      "prompt": "A rhyming couplet:\nThe engine sputtered with a sudden jar,\n",
+      "intermediates": [
+        "car"
+      ]
+    },
+    {
+      "name": "couplet-tree-three",
+      "prompt": "A rhyming couplet:\nThe woodsman counted rings within the tree,\n",
+      "intermediates": [
+        "three"
+      ]
+    },
+    {
+      "name": "couplet-sea-see",
+      "prompt": "A rhyming couplet:\nThe lighthouse beam swept out across the sea,\n",
+      "intermediates": [
+        "see"
+      ]
+    },
+    {
+      "name": "couplet-lock-key",
+      "prompt": "A rhyming couplet:\nThe treasure chest was bound by iron lock,\n",
+      "intermediates": [
+        "key"
+      ]
+    },
+    {
+      "name": "couplet-crown-town",
+      "prompt": "A rhyming couplet:\nThe king rode through in velvet robe and crown,\n",
+      "intermediates": [
+        "town"
+      ]
+    },
+    {
+      "name": "couplet-gown-down",
+      "prompt": "A rhyming couplet:\nShe tripped upon the hem of her long gown,\n",
+      "intermediates": [
+        "down"
+      ]
+    },
+    {
+      "name": "couplet-sold-told",
+      "prompt": "A rhyming couplet:\nThe merchant swore the goods could not be sold,\n",
+      "intermediates": [
+        "told"
+      ]
+    },
+    {
+      "name": "couplet-regret-met",
+      "prompt": "A rhyming couplet:\nShe turned away and whispered her regret,\n",
+      "intermediates": [
+        "met"
+      ]
+    },
+    {
+      "name": "couplet-threat-set",
+      "prompt": "A rhyming couplet:\nThe captain barked out orders under threat,\n",
+      "intermediates": [
+        "set"
+      ]
+    },
+    {
+      "name": "couplet-forget-get",
+      "prompt": "A rhyming couplet:\nThe lesson was too painful to forget,\n",
+      "intermediates": [
+        "get"
+      ]
+    },
+    {
+      "name": "couplet-hook-book",
+      "prompt": "A rhyming couplet:\nThe opening line had caught her like a hook,\n",
+      "intermediates": [
+        "book"
+      ]
+    },
+    {
+      "name": "couplet-brook-look",
+      "prompt": "A rhyming couplet:\nHe paused beside the slowly winding brook,\n",
+      "intermediates": [
+        "look"
+      ]
+    },
+    {
+      "name": "couplet-shook-took",
+      "prompt": "A rhyming couplet:\nThe thief reached in before the guards' hands shook,\n",
+      "intermediates": [
+        "took"
+      ]
+    },
+    {
+      "name": "couplet-above-love",
+      "prompt": "A rhyming couplet:\nThe couple gazed at constellations above,\n",
+      "intermediates": [
+        "love"
+      ]
+    },
+    {
+      "name": "couplet-heart-art",
+      "prompt": "A rhyming couplet:\nThe painter poured emotion from his heart,\n",
+      "intermediates": [
+        "art"
+      ]
+    },
+    {
+      "name": "couplet-apart-part",
+      "prompt": "A rhyming couplet:\nThe machinist pulled the engine all apart,\n",
+      "intermediates": [
+        "part"
+      ]
+    },
+    {
+      "name": "couplet-depart-start",
+      "prompt": "A rhyming couplet:\nThe runners gathered, ready to depart,\n",
+      "intermediates": [
+        "start"
+      ]
+    },
+    {
+      "name": "couplet-hall-call",
+      "prompt": "A rhyming couplet:\nHer voice rang out and echoed through the hall,\n",
+      "intermediates": [
+        "call"
+      ]
+    },
+    {
+      "name": "couplet-tall-small",
+      "prompt": "A rhyming couplet:\nThe giant loomed above them, dark and tall,\n",
+      "intermediates": [
+        "small"
+      ]
+    },
+    {
+      "name": "couplet-hand-land",
+      "prompt": "A rhyming couplet:\nThe pilot gripped the lever in his hand,\n",
+      "intermediates": [
+        "land"
+      ]
+    },
+    {
+      "name": "couplet-attack-back",
+      "prompt": "A rhyming couplet:\nThe soldiers braced themselves for the attack,\n",
+      "intermediates": [
+        "back"
+      ]
+    },
+    {
+      "name": "couplet-crack-black",
+      "prompt": "A rhyming couplet:\nThe storm clouds gathered with a thunder crack,\n",
+      "intermediates": [
+        "black"
+      ]
+    },
+    {
+      "name": "couplet-sun-done",
+      "prompt": "A rhyming couplet:\nThe farmer worked until the setting sun,\n",
+      "intermediates": [
+        "done"
+      ]
+    },
+    {
+      "name": "couplet-fun-won",
+      "prompt": "A rhyming couplet:\nThe children played their games and had their fun,\n",
+      "intermediates": [
+        "won"
+      ]
+    },
+    {
+      "name": "couplet-lake-break",
+      "prompt": "A rhyming couplet:\nThe swimmer dove into the frozen lake,\n",
+      "intermediates": [
+        "break"
+      ]
+    },
+    {
+      "name": "couplet-mistake-make",
+      "prompt": "A rhyming couplet:\nThe student learned from every old mistake,\n",
+      "intermediates": [
+        "make"
+      ]
+    },
+    {
+      "name": "couplet-slow-low",
+      "prompt": "A rhyming couplet:\nThe submarine was sinking, smooth and slow,\n",
+      "intermediates": [
+        "low"
+      ]
+    },
+    {
+      "name": "couplet-grow-show",
+      "prompt": "A rhyming couplet:\nThe actor practiced, letting talent grow,\n",
+      "intermediates": [
+        "show"
+      ]
+    },
+    {
+      "name": "couplet-below-know",
+      "prompt": "A rhyming couplet:\nThe scholars dug through layers far below,\n",
+      "intermediates": [
+        "know"
+      ]
+    },
+    {
+      "name": "couplet-dead-red",
+      "prompt": "A rhyming couplet:\nThe roses on the grave had long been dead,\n",
+      "intermediates": [
+        "red"
+      ]
+    },
+    {
+      "name": "couplet-ahead-head",
+      "prompt": "A rhyming couplet:\nThe captain pointed at the route ahead,\n",
+      "intermediates": [
+        "led"
+      ]
+    },
+    {
+      "name": "couplet-wait-late",
+      "prompt": "A rhyming couplet:\nShe checked her watch and settled in to wait,\n",
+      "intermediates": [
+        "late"
+      ]
+    },
+    {
+      "name": "couplet-fate-great",
+      "prompt": "A rhyming couplet:\nThe hero stood before the gates of fate,\n",
+      "intermediates": [
+        "great"
+      ]
+    },
+    {
+      "name": "couplet-ground-round",
+      "prompt": "A rhyming couplet:\nThe wheel had fallen, rolling on the ground,\n",
+      "intermediates": [
+        "round"
+      ]
+    },
+    {
+      "name": "couplet-sound-found",
+      "prompt": "A rhyming couplet:\nThe searchers followed every distant sound,\n",
+      "intermediates": [
+        "found"
+      ]
+    }
+  ]
+}
