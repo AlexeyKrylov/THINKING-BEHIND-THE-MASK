@@ -1,15 +1,24 @@
 # Python >= 3.10, CUDA GPU with >= 40 GB of memory.
-# jlens itself is installed from this repository: pip install -e ./jacobian-lens
+# Install everything from the repository root with a single command:
+#   pip install -r requirements.txt
+# (jlens itself is installed in editable mode from ./jacobian-lens by this file)
+
+# --- core ---
 torch>=2.4
-transformers
-huggingface_hub
-safetensors
+# LLaDA does not support transformers 5.x.
+transformers<5.0.0
+numpy
 accelerate
 datasets
-numpy
+
+# --- jlens, editable install from this repository ---
+-e ./jacobian-lens
+
+# --- notebooks / analysis ---
 pandas
 matplotlib
 seaborn
 tqdm
 jupyter
 ipykernel
+ipython

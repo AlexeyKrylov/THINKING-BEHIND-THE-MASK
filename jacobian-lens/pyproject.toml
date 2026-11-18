@@ -12,7 +12,7 @@ license = "Apache-2.0"
 dependencies = [
     "torch",
     "huggingface_hub",
-    "transformers>=5.5",
+    "transformers<5.0.0",
     "numpy",
 ]
 

@@ -51,7 +51,6 @@ git clone <this repository>
 cd thinking-behind-the-mask
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-pip install -e ./jacobian-lens
 ```
 
 `tuned_lens` and `tuned_lens_diffusion` are imported from `tuned-lens/` by the notebooks
