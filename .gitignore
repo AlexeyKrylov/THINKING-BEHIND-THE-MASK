@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Experiment artifacts produced by the notebooks
+# (jlens checkpoints use the .pt extension, e.g. llada_ckpt_1000.pt)
+*.pt
+*.pth
+*.pkl
+*.jsonl
+*.log
+llama-tuned_lens-trajectory_plot.html
+
+# Trained lenses and checkpoints
+tuned-lens/ar-tuned_lens-repo/train_lenses/
+tuned-lens/ar-tuned_lens-repo/eval_lenses/
+tuned-lens/ar-tuned_lens-repo/checkpoint/
+tuned-lens/diffusion-tuned_lens/train_lenses/
+tuned-lens/diffusion-tuned_lens/eval_lenses/
